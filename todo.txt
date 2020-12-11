@@ -1,0 +1,9 @@
+endre "eta" til "xi"
+Ci-vrdien blir nan, finn ut hvorfor!
+
+
+
+To do:
+- Se på å endre setOfPointsFromSurfac til å returnere et fixed antall punkter
+- Euclidean Cluster Extraction for å kalkulere Xi
+- Colition detection med PCL for å verifisere gipp
